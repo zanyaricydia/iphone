@@ -1,2 +1,2 @@
 # iphone
-zanyari darbarqy cydia
+zanyari darbaray cydia
